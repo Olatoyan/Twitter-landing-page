@@ -1,0 +1,56 @@
+.margin-sm {
+  margin-bottom: 2rem;
+}
+
+.margin-md {
+  margin-bottom: 5rem;
+}
+
+.margin-lg {
+  margin-bottom: 8rem;
+}
+.padding-sm {
+  padding: 2rem;
+}
+
+.padding-md {
+  padding: 4rem;
+}
+.margin-sm {
+  margin-bottom: 2rem;
+}
+
+.span-blue {
+  color: #f5f8fa;
+  background-color: #1da1f2;
+}
+
+.btn:link,
+.btn:visited {
+  display: block;
+  text-decoration: none;
+  font-size: 1.4rem;
+  color: #f5f8fa;
+  padding: 0.8rem 4rem;
+  background-color: #1da1f2;
+  letter-spacing: 1px;
+}
+
+.tertiary__heading {
+  color: #1da1f2;
+}
+.secondary__heading {
+  font-size: 2.3rem;
+}
+
+.heading__text {
+  font-size: 1.2rem;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.heading__text-sm {
+  font-size: 1.2rem;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
